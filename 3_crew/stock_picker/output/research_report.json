@@ -1,0 +1,88 @@
+{
+  "research_list": [
+    {
+      "name": "Broadcom",
+      "market_position": "Major supplier of semiconductor devices with significant growth in AI revenue potential, estimated to reach $100 billion by 2027.",
+      "future_outlook": "Broadcom's addressable market among major customers could increase to $90 billion by 2027 as it further expands into data center technologies.",
+      "investment_potential": "Widely regarded as a strong buy with a positive analyst consensus."
+    },
+    {
+      "name": "Microchip Technology",
+      "market_position": "Focus on microcontrollers and related products, seen as a potentially undervalued investment.",
+      "future_outlook": "Forecasted earnings growth at 54% and revenue growth at 20.4%, indicating strong market demand.",
+      "investment_potential": "Based on analyst price targets, it holds potential upside based on strategic positioning."
+    },
+    {
+      "name": "Zebra Technologies",
+      "market_position": "Positioned in supply chain visibility and operational technology; currently facing some stock price pressure.",
+      "future_outlook": "Expected revenue and earnings growth of 14.9% and 6.3% per annum, respectively.",
+      "investment_potential": "Analysts suggest it remains a good investment opportunity."
+    },
+    {
+      "name": "Ecovyst",
+      "market_position": "Active in sustainability solutions, showing a robust operational strength.",
+      "future_outlook": "Forecasted earnings grow at 77.79%, suggesting a high-growth potential for the coming years.",
+      "investment_potential": "Recognized for its ability to compete in emerging green technologies."
+    },
+    {
+      "name": "Procept BioRobotics",
+      "market_position": "Innovative solutions in robotic surgery, anticipating significant market capture.",
+      "future_outlook": "Earnings forecast to grow substantially, indicating a robust market for its products.",
+      "investment_potential": "Strong potential for expansion into new markets, making it a compelling investment."
+    },
+    {
+      "name": "NerdWallet",
+      "market_position": "Providing digital financial solutions and advice with a strong user engagement.",
+      "future_outlook": "Forecasted growth of earnings and revenues reflecting potential in fintech.",
+      "investment_potential": "Analysts project significant upside potential based on user growth and market demands."
+    },
+    {
+      "name": "Semtech",
+      "market_position": "Player in the IoT space with favorable market conditions.",
+      "future_outlook": "Positive stock momentum and analyst rating suggest it could outperform market averages.",
+      "investment_potential": "Considered a buy based on growth expectations and strategic product initiatives."
+    },
+    {
+      "name": "Perplexity AI",
+      "market_position": "Emerging player in AI-driven solutions, anticipated to significantly grow.",
+      "future_outlook": "Revenue projections around $656 million by 2025 indicate robust potential in a competitive market.",
+      "investment_potential": "Valuation skyrocketing to $9 billion reflects strong investor confidence."
+    },
+    {
+      "name": "FlutterFlow",
+      "market_position": "Rising platform in the no-code development space, targeting startups.",
+      "future_outlook": "Anticipation of increased demand for no-code solutions offers significant growth for the platform.",
+      "investment_potential": "Strong investor interest and market potential position it favorably for future investments."
+    },
+    {
+      "name": "Cohere",
+      "market_position": "AI leader focusing on enterprise applications, positioned for substantial market growth.",
+      "future_outlook": "Expectation of strong revenue growth supported by a recent $500 million funding boost.",
+      "investment_potential": "Valued at $6.8 billion, reflecting high expectations for future returns."
+    },
+    {
+      "name": "Beehiiv",
+      "market_position": "Growing in the crowded newsletter and content creation market, leveraging innovative technology.",
+      "future_outlook": "Increasing user base and revenue demonstrate its ability to expand.",
+      "investment_potential": "Strong market presence with possibilities for future fundraising drives."
+    },
+    {
+      "name": "Photoroom",
+      "market_position": "Dominating in AI-driven image editing solutions with significant everyday usage.",
+      "future_outlook": "Projected revenue reaching $100 million ARR, indicating strong ongoing demand.",
+      "investment_potential": "Low-risk investment with a high growth potential demonstrated by rapid increases in revenue."
+    },
+    {
+      "name": "Supabase",
+      "market_position": "Leading platform for backend development with substantial growth after recent funding.",
+      "future_outlook": "Financial backing positions Supabase well for future opportunities in app development.",
+      "investment_potential": "Valuation at $5 billion showcases investor confidence in the platform's capabilities."
+    },
+    {
+      "name": "Otter.ai",
+      "market_position": "Leading the market with AI transcription services targeting enterprise customers.",
+      "future_outlook": "ARR surpassing $100 million signifies a solid foothold in the productivity software market.",
+      "investment_potential": "With substantial growth recorded, it retains a strong outlook for future investments."
+    }
+  ]
+}

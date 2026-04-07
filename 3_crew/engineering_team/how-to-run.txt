@@ -1,0 +1,5 @@
+If gradio is not installed
+    - uv add gradio
+
+Run Project while being in output directory
+    - uv run app.py

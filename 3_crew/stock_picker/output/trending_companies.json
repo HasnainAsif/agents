@@ -1,0 +1,79 @@
+{
+  "companies": [
+    {
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "reason": "Major supplier of semiconductor devices with a focus on various sectors."
+    },
+    {
+      "name": "Microchip Technology",
+      "ticker": "MCHP",
+      "reason": "Focuses on microcontrollers and related products which are increasingly in demand."
+    },
+    {
+      "name": "Zebra Technologies",
+      "ticker": "ZBRA",
+      "reason": "Specializes in technology that provides visibility into supply chain operations."
+    },
+    {
+      "name": "Ecovyst",
+      "ticker": "ECVT",
+      "reason": "Active in sustainability solutions and green technologies."
+    },
+    {
+      "name": "Procept BioRobotics",
+      "ticker": "PRCT",
+      "reason": "Innovative solutions in robotic surgery."
+    },
+    {
+      "name": "NerdWallet",
+      "ticker": "NRDS",
+      "reason": "Providing digital financial advice and solutions, which has gained traction recently."
+    },
+    {
+      "name": "Semtech",
+      "ticker": "SMTC",
+      "reason": "Known for its semiconductor products in the Internet of Things market."
+    },
+    {
+      "name": "Perplexity AI",
+      "ticker": "",
+      "reason": "A new company showing potential in AI-driven solutions."
+    },
+    {
+      "name": "FlutterFlow",
+      "ticker": "",
+      "reason": "Emerging platform for building applications without code."
+    },
+    {
+      "name": "Cohere",
+      "ticker": "",
+      "reason": "Develops AI models for businesses."
+    },
+    {
+      "name": "Beehiiv",
+      "ticker": "",
+      "reason": "Content creation platform gaining traction among creators."
+    },
+    {
+      "name": "Photoroom",
+      "ticker": "",
+      "reason": "Innovative technology in image editing and enhancement."
+    },
+    {
+      "name": "Supabase",
+      "ticker": "",
+      "reason": "Open-source alternative to Firebase, aimed at developers."
+    },
+    {
+      "name": "Otter.ai",
+      "ticker": "",
+      "reason": "Voice meeting tool using AI transcription services."
+    },
+    {
+      "name": "Groq",
+      "ticker": "",
+      "reason": "New entrant in machine learning technology."
+    }
+  ]
+}

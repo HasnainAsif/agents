@@ -1,0 +1,7 @@
+Projects Numbering - Step-by-Step
+
+1. debate
+2. financial_researcher
+3. stock_picker
+4. coder
+5. engineering_team
