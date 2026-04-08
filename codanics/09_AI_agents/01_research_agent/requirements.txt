@@ -1,0 +1,8 @@
+langchain==0.1.16
+langchain-community==0.0.36
+langchain-openai==0.1.6
+langchain-anthropic==0.1.11
+python-dotenv==1.0.1
+pydantic==2.7.1
+duckduckgo-search==8.0.3
+wikipedia==1.4.0

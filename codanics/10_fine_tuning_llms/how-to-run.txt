@@ -1,0 +1,7 @@
+create conda environment --> conda create -n finetune_env python=3.10 -y
+activate conda environment --> conda activate finetune_env
+checkout terminal to current directory --> cd 10_fine_tuning_llms
+list all conda environments --> conda env list
+install packages from requirements.txt --> /home/tk-lpt-648/miniconda3/envs/finetune_env/bin/python3.10 -m pip install -r requirements.txt
+Fine tune model --> /home/tk-lpt-648/miniconda3/envs/finetune_env/bin/python3.10 src/finetune.py
+Use Fine tuned model --> /home/tk-lpt-648/miniconda3/envs/finetune_env/bin/python3.10 src/infer.py

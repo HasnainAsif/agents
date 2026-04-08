@@ -1,7 +1,10 @@
-Checkout to an crewai environment (agents):
-    python -m venv agents - for creating "agents" environment using simple python
-    uv venv agents - for creating environment using uv
+Checkout to a environment (agents):
+    python -m venv agents - for creating "agents" environment using simple python. (NOTE: NOT USING THIS HERE)
+    uv venv agents - for creating 'agents' environment using uv
     source agents/bin/activate - for activating environment
+
+After environment creation, run below command to install all dependencies
+    uv synv
 
 
 CHECK COMPLETE STEPs TO CREATE VIRTUAL ENVIRONMENTS:

@@ -1,0 +1,102 @@
+[
+  {
+    "instruction": "What is gravity?",
+    "input": "",
+    "output": "Gravity is the force that pulls objects toward the Earth."
+  },
+  {
+    "instruction": "What is the capital of France?",
+    "input": "",
+    "output": "The capital of France is Paris."
+  },
+  {
+    "instruction": "What is water made of?",
+    "input": "",
+    "output": "Water is made of hydrogen and oxygen."
+  },
+  {
+    "instruction": "What is the opposite of hot?",
+    "input": "",
+    "output": "The opposite of hot is cold."
+  },
+  {
+    "instruction": "What does a computer do?",
+    "input": "",
+    "output": "A computer processes data and performs tasks based on instructions."
+  },
+  {
+    "instruction": "What is 5 + 3?",
+    "input": "",
+    "output": "5 + 3 equals 8."
+  },
+  {
+    "instruction": "What is the sun?",
+    "input": "",
+    "output": "The sun is a star at the center of our solar system."
+  },
+  {
+    "instruction": "What do plants need to grow?",
+    "input": "",
+    "output": "Plants need sunlight, water, air, and nutrients to grow."
+  },
+  {
+    "instruction": "What is an animal?",
+    "input": "",
+    "output": "An animal is a living organism that feeds on organic matter."
+  },
+  {
+    "instruction": "What is the color of the sky on a clear day?",
+    "input": "",
+    "output": "The sky is blue on a clear day."
+  },
+  {
+    "instruction": "What is electricity?",
+    "input": "",
+    "output": "Electricity is a form of energy caused by moving electrons."
+  },
+  {
+    "instruction": "What is ice?",
+    "input": "",
+    "output": "Ice is frozen water."
+  },
+  {
+    "instruction": "What do we use to write on paper?",
+    "input": "",
+    "output": "We use a pen or a pencil to write on paper."
+  },
+  {
+    "instruction": "What is the purpose of sleep?",
+    "input": "",
+    "output": "Sleep helps the body rest and recover."
+  },
+  {
+    "instruction": "What is a car?",
+    "input": "",
+    "output": "A car is a vehicle used for transportation."
+  },
+  {
+    "instruction": "What is air?",
+    "input": "",
+    "output": "Air is a mixture of gases that we breathe."
+  },
+  {
+    "instruction": "What is 10 divided by 2?",
+    "input": "",
+    "output": "10 divided by 2 equals 5."
+  },
+  {
+    "instruction": "What is a book?",
+    "input": "",
+    "output": "A book is a collection of written or printed pages."
+  },
+  {
+    "instruction": "What do birds use to fly?",
+    "input": "",
+    "output": "Birds use their wings to fly."
+  },
+  {
+    "instruction": "What is food?",
+    "input": "",
+    "output": "Food provides energy and nutrients to living beings."
+  }
+]
