@@ -1,6 +1,0 @@
-create conda environment --> conda create -n local_rag_ai_agent python=3.11 -y
-activate conda environment --> conda activate local_rag_ai_agent
-checkout terminal to current directory --> cd 09_AI_agents/02_local_RAG_AI_agent
-list all conda environments --> conda env list
-install packages from requirements.txt --> /home/tk-lpt-648/miniconda3/envs/local_rag_ai_agent/bin/python3.11 -m pip install -r requirements.txt
-run main.py --> /home/tk-lpt-648/miniconda3/envs/local_rag_ai_agent/bin/python3.11 main.py
