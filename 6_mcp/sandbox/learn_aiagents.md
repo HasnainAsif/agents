@@ -23,7 +23,7 @@
 ## Month 3: Natural Language Processing (NLP)
 
 - **Courses:**
-  - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/natural-language-processing-with-classification-and-vector-spaces)
+  - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
     - **Platform:** Coursera
     - **Duration:** 4 weeks
   - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
